@@ -190,7 +190,6 @@
   <img src="https://adriansblinkiecollection.neocities.org/stamps/e79.gif" alt="stamp6">
   <img src="https://adriansblinkiecollection.neocities.org/stamps/b33.gif" alt="stamp7">
   <img src="https://adriansblinkiecollection.neocities.org/stamps/b35.png" alt="stamp8">
-  <img src="https://adriansblinkiecollection.neocities.org/stamps/e31.gif" alt="stamp9">
 </p>
 
 </div>
